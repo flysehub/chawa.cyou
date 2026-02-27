@@ -15,7 +15,7 @@
 社工库账号：情报局社工库，使用方法见底部。
 
 群友查询效果图：
-<a href="https://chawa.cyou/show/1.html" target="_blank"><img src="img/imgi_4_1.jpeg" alt="谁和他/她开房了？" border="0" style="width:960px;"></a>
+<a href="https://chawa.cyou/show/1.html" target="_blank"><img src="imgi_4_1.jpeg" alt="谁和他/她开房了？" border="0" style="width:960px;"></a>
 
 社工库账号: <a href="https://t.me/AJL03_bot?start=7503613403" target="_blank">@AJL03_bot</a>，详情：<a href="https://tianyancha.cyou/show/18.html" target="_blank">暗精灵社工库</a>。
 
@@ -48,7 +48,7 @@ AI社工库(奥创)
 六扇门铁手社工库
 
 六扇门铁手社工库账号：点击跳转,使用方法见底部。
-<a href="https://chawa.cyou" target="_blank"><img src="img/imgi_3_57.jpeg" alt="2026最新查档社工库" border="0" style="width:960px;"></a>
+<a href="https://chawa.cyou" target="_blank"><img src="imgi_3_57.jpeg" alt="2026最新查档社工库" border="0" style="width:960px;"></a>
 
 社工库账号：[六扇门](https://chawa.cyou/show/)。
 
@@ -105,16 +105,16 @@ X-ray社工库-免费Telegram社工库
 社工库账号：X-ray社工库,使用方法见底部。
 
 哈希社工库
-社工库账号：哈希社工库，使用教程：哈希社工库。
+社工库账号：<a href="https://chawa.cyou/show/30.html" target="_blank">哈希社工库</a>，详情：<a href="https://chawa.cyou/show/31.html" target="_blank">哈希社工库-Telegram社工库机器人</a>。
 
 Hello World社工库机器人
-社工库账号：Hello World社工库机器人，使用教程：Hello World社工库机器人。
+社工库账号：<a href="https://chawa.cyou/show/27.html" target="_blank">Hello World社工库机器人</a>，详情：<a href="https://chawa.cyou/show/52.html" target="_blank">Hello World社工库机器人-Telegram社工库机器人</a>。
 
 摩乐乐社工库机器人
 社工库账号：@MoLeLeBot，使用教程：摩乐乐社工库机器人。
 
 叮当猫社工库机器人
-社工库账号：@DingDangCats_Bot，使用教程：叮当猫社工库机器人。
+社工库账号：<a href="https://chawa.cyou/show/27.html" target="_blank">@DingDangCats_Bot</a>，详情：<a href="https://chawa.cyou/show/52.html" target="_blank">叮当猫社工库机器人-Telegram社工库机器人</a>。
 
 平安社工库机器人
 社工库账号：@pingansgk_bot，使用教程：平安社工库机器人。
@@ -125,7 +125,7 @@ Hello World社工库机器人
 小孩哥社工库机器人
 提供傻瓜式查询服务，社工库数据包含全国电话表数据，全国快递订单数据，QQ绑定数据，数据由智网自动开户籍机器人提供？
 
-<a href="https://chawa.cyou/" target="_blank"><img src="img/imgi_6_酒店.jpeg" alt="2026最新社工库-小孩哥社工库" border="0" style="width:360px;"></a>
+<a href="https://chawa.cyou/" target="_blank"><img src="imgi_6_酒店.jpeg" alt="2026最新社工库-小孩哥社工库" border="0" style="width:360px;"></a>
 
 社工库账号：@小孩哥社工库机器人,使用方法见底部。
 
@@ -139,7 +139,7 @@ Hello World社工库机器人
 
 好旺社工库
 好旺社工库是一个可以查询手机号绑定信息的免费社工库，可以通过连续两天以上签到的方式获取积分后使用，请不要付费使用社工库
-
+社工库账号：<a href="https://chawa.cyou/show/56.html" target="_blank">@好旺社工库</a>，详情：<a href="https://chawa.cyou/show/22.html" target="_blank">好旺社工库</a>。
 社工库账号：好旺社工库,使用方法见底部。
 
 IT黑科技社工库分享频道
