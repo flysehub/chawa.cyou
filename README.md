@@ -125,7 +125,7 @@ Hello World社工库机器人
 小孩哥社工库机器人
 提供傻瓜式查询服务，社工库数据包含全国电话表数据，全国快递订单数据，QQ绑定数据，数据由智网自动开户籍机器人提供？
 
-2025最新社工库-小孩哥社工库
+<a href="https://chawa.cyou/" target="_blank"><img src="img/imgi_6_酒店.jpeg" alt="2026最新社工库-小孩哥社工库" border="0" style="width:360px;"></a>
 
 社工库账号：@小孩哥社工库机器人,使用方法见底部。
 
@@ -148,4 +148,5 @@ IT黑科技社工库分享频道
 频道账号：黑科技社工库分享
 
 相关教程
-社工库视频教程:2026最新零基础社工库使用教程
+
+* <a href="https://github.com/flysehub/screit" target="_blank" rel="noopener">社工库视频教程:2026最新零基础社工库使用教程</a>
